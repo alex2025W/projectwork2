@@ -1,0 +1,9 @@
+[user]
+	name = alex2025W
+	email = alexey.tulaev@gmail.com
+[core]
+	autocrlf = input
+	safecrlf = warn
+	quotePath = off
+[alias]
+	history = log --graph
